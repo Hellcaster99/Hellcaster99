@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Generative AI, Cybersecurty, AWS, Azure**
 
-💬 Ask me about **Python, AI, Machine Learning, Deep Learning, MLOps... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, AI, Machine Learning, Deep Learning, MLOps... or anything [here](https://github.com/Hellcaster99/Hellcaster99/issues)**
 
 ⚡ Favourite Quote **It's not about whether I can or cannot make it, I'm gonna do it anyways because I want to** - Monkey D. Luffy
 
@@ -39,9 +39,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c" />
     <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,opencv,fastapi,sklearn" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,netlify" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redis,vite" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase,kafka" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,netlify" />
     <img src="https://skillicons.dev/icons?i=github,githubactions,stackoverflow,vscode,postman,bash" /><br>
 </div>
 
@@ -61,7 +61,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hellcster99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hellcaster99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Hellcaster99&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hellcaster99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
