@@ -51,8 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hellcaster99/Hellcaster99/blob/output/github-contribution-grid-snake.svg" /> -->
-![snake gif](https://github.com/Hellcaster99/Hellcaster99/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://github.com/Hellcaster99/Hellcaster99/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
