@@ -1,4 +1,4 @@
-name: manual run
+name: manual run Generate snake
 
 on:
   workflow_dispatch:
